@@ -1,6 +1,6 @@
 Name:		texlive-fiziko
 Version:	61944
-Release:	1
+Release:	2
 Summary:	A MetaPost library for physics textbook illustrations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fiziko
